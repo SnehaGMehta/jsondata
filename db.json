@@ -1,6 +1,22 @@
-{ "posts" :[{
-  "userId": 1,
-  "id": 1,
-  "title": "sneha",
-  "completed": false
-}]}
+{ "posts" :
+ [
+   {
+    "userId": 1,
+    "id": 01,
+    "title": "sneha",
+    "completed": "false"
+   },
+   {
+    "userId": 2,
+    "id": 02,
+    "title": "pia",
+    "completed": "false"
+   },
+   {
+    "userId": 3,
+    "id": 03,
+    "title": "ayushi",
+    "completed": "true"
+   }
+ ]
+}
