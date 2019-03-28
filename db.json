@@ -1,4 +1,4 @@
-{ "posts" :
+"posts" :
  [
    {
     "userId": 1,
@@ -19,4 +19,4 @@
     "completed": "true"
    }
  ]
-}
+
